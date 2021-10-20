@@ -1,0 +1,11 @@
+@media screen and (min-width: 768px) {
+    .section__title {
+        font-size: 64px;
+        line-height: 80px;
+    }
+
+    .section-home__title {
+        font-size: 80px;
+        line-height: 88px;
+    }
+}
